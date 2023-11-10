@@ -13,3 +13,6 @@ windows：
 下载到如d:\clash\clash-dashboard
 
 修改配置文件congig.yamle中相应字段为 external-ui: d:\clash\clash-dashboard
+
+
+在浏览器里访问 http://127.0.0.1:9090/ui/
