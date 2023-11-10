@@ -4,12 +4,12 @@
 
 linux： 
 
-git clone https://github.com/eorendel/clash-dashboard.git /etc/clash-dashboard
+git clone https://github.com/eorendel/clash-dashboard.git  /etc/clash-dashboard
 
-修改配置文件congig.yamle中 external-ui: /etc/clash-dashboard
+修改配置文件congig.yamle中相应字段为 external-ui: /etc/clash-dashboard
 
 windows：
 
 下载到如d:\clash\clash-dashboard
 
-修改配置文件congig.yamle中external-ui: d:\clash\clash-dashboard
+修改配置文件congig.yamle中相应字段为 external-ui: d:\clash\clash-dashboard
