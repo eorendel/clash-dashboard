@@ -10,7 +10,9 @@ git clone https://github.com/eorendel/clash-dashboard.git  /etc/clash-dashboard
 
 windows：
 
-下载到如d:\clash\clash-dashboard
+https://github.com/eorendel/clash-dashboard/archive/refs/heads/main.zip
+
+下载解压到如d:\clash\clash-dashboard
 
 修改配置文件config.yaml中相应字段为 external-ui: d:\clash\clash-dashboard
 
