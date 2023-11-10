@@ -1,6 +1,6 @@
 备份 https://github.com/Dreamacro/clash-dashboard/
 
-使用：
+使用说明
 
 linux： 
 
